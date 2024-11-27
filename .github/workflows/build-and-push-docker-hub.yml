@@ -32,7 +32,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: lamdb/ci-cd:staging
+          tags: fanak/ci-cd:staging
 
 
   pull-and-up:
